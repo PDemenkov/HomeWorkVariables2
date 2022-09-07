@@ -13,5 +13,7 @@ public class Main {
         System.out.println("Значение переменной minWeight с типом float = " + minWeight );
         double maxWeight = 3.14;
         System.out.println("Значение переменной pi с типом double = " + maxWeight );
+
+
     }
 }
